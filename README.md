@@ -59,3 +59,6 @@ This project provided hands-on experience with the fundamental features of Wires
 * Applying logical operators like AND and OR to create complex and specific display filters.
 
 This exercise was a practical demonstration of how a security analyst can use Wireshark to narrow down vast amounts of network data to investigate specific events or traffic.
+## Certifications
+
+* [cite_start][Wireshark for Beginners: Capture Packets](https://coursera.org/verify/DJDYRPI2Q0D5) - Coursera Project Network, Sep 2025 [cite: 5, 8, 9, 19]
